@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_TestProject1.-1474896697.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="TestProject1" t="IncludeRecursive">
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestPages" t="Include">
+          <e p="AboutUsPage.cs" t="Include" />
+          <e p="DataAndMarketIntelegencePage.cs" t="Include" />
+          <e p="HomePage.cs" t="Include" />
+          <e p="IjglobalCom.cs" t="Include" />
+          <e p="ManagerTeamPage.cs" t="Include" />
+          <e p="OurBusinessPage.cs" t="Include" />
+        </e>
+        <e p="TestProject1.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="TestProject1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="Microsoft.JavaScript.UnitTest.1.5.20902.1-beta/build/netstandard2.0/Microsoft.JavaScript.TestAdapter.dll" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

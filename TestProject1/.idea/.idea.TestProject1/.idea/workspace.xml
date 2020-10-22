@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8100b59c-48d8-4a0d-9c37-9931aed85f89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/b2/e86785eb/TestActionCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/4b/104a2b3d/SetUpTearDownCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/18/82970f75/SimpleWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/54/e51c2441/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/OurBusiness.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/Manager.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/dataAndMarketIntelligence.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/DataAndMarketIntelegence.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/Ijglobal.com.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/HomePage.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/ManagerTeamPage.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/OurBusinessPage.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/AboutUsPage.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/Tests.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/DataAndMarketIntelegencePage.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestPages/IjglobalCom.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j8oB0bKrudAMt7o077z3rU7gWW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34988362" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30023274" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestProject2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="06c14269-f684-400e-a3a2-a74294cdfc6b" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8100b59c-48d8-4a0d-9c37-9931aed85f89" name="Default Changelist" comment="" />
+      <created>1603194941579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603194941579</updated>
+      <workItem from="1603194947404" duration="7500000" />
+      <workItem from="1603269558701" duration="16621000" />
+      <workItem from="1603287731718" duration="3007000" />
+      <workItem from="1603294470331" duration="8840000" />
+      <workItem from="1603304263301" duration="8765000" />
+      <workItem from="1603345761659" duration="2546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="158" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603294546023">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="158" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1603294546023" />
+    <state width="1320" height="242" key="GridCell.Tab.0.bottom" timestamp="1603313325886">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603313325886" />
+    <state width="1320" height="242" key="GridCell.Tab.0.center" timestamp="1603313325886">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603313325886" />
+    <state width="1320" height="242" key="GridCell.Tab.0.left" timestamp="1603313325886">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603313325886" />
+    <state width="1320" height="242" key="GridCell.Tab.0.right" timestamp="1603313325886">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603313325886" />
+    <state width="1320" height="242" key="GridCell.Tab.1.bottom" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.1.center" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.1.left" timestamp="1603313325886">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1603313325886" />
+    <state width="1320" height="242" key="GridCell.Tab.1.right" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.2.bottom" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.2.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.2.center" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.2.center/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.2.left" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.2.left/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.2.right" timestamp="1603313325887">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.2.right/0.27.1366.741@0.27.1366.741" timestamp="1603313325887" />
+    <state width="1320" height="242" key="GridCell.Tab.3.bottom" timestamp="1603313325888">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.3.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603313325888" />
+    <state width="1320" height="242" key="GridCell.Tab.3.center" timestamp="1603313325888">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.3.center/0.27.1366.741@0.27.1366.741" timestamp="1603313325888" />
+    <state width="1320" height="242" key="GridCell.Tab.3.left" timestamp="1603313325888">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.3.left/0.27.1366.741@0.27.1366.741" timestamp="1603313325888" />
+    <state width="1320" height="242" key="GridCell.Tab.3.right" timestamp="1603313325888">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="242" key="GridCell.Tab.3.right/0.27.1366.741@0.27.1366.741" timestamp="1603313325888" />
+    <state x="196" y="53" width="722" height="696" key="RiderGenerateDialog" timestamp="1603204635226">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="196" y="53" width="722" height="696" key="RiderGenerateDialog/0.27.1366.741@0.27.1366.741" timestamp="1603204635226" />
+    <state x="347" y="174" key="run.anything.popup" timestamp="1603301045828">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1603301045828" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603308059016">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1603308059016" />
+  </component>
+</project>
